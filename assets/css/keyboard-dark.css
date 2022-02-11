@@ -1,0 +1,24 @@
+.theme-dark {
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: var(--text-light);
+}
+
+.theme-dark .keyboard-container {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-dark button {
+    background-color: rgba(17, 27, 40, 0.5);
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    color: var(--text-light);
+}
+
+.theme-dark button:hover {
+    background-color: rgba(209, 213, 219, 0.3);
+    color: var(--text-dark);
+}
+
+.theme-dark .light-on {
+    background-color: rgb(110 231 183)!important;
+    box-shadow: 0 0 7px rgb(110 231 183);
+}
