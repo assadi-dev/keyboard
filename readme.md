@@ -7,4 +7,4 @@
 - HTML
 - CSS
 
- [liens du projet : ](https://assadi-dev.github.io/keyboard)
+ [liens du projet ](https://assadi-dev.github.io/keyboard){:target="_blank"}
